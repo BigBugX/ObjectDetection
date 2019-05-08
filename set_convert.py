@@ -1,5 +1,5 @@
 """
-YOLOv3 detection COCO modification
+Object Detection COCO modification
 Authorization: Will@Altizure&Haohan
 Date: 2019-Apr-26
 """
